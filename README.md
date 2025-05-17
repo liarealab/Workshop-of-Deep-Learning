@@ -1,4 +1,4 @@
-![image](visual_setup/Head.png)
+![image](workshop/workshop.jpeg)
 
 # Workshop de Introdução em Aprendizado Profundo aplicado em Sensoriamento Remoto
 
