@@ -23,7 +23,7 @@ No tocante ao aprendizado supervisionado, comumente direcionado para tarefas de 
     
    print("Path to dataset files:", path)
    ```
-- Acesse o notebook e faça uma cópia para seu Google Drive: https://colab.research.google.com/drive/1UDkeEM2HFdvLx1bBiWjK5yAzyFK4kvRm?usp=sharing
+- Acesse o notebook e faça uma cópia para seu Google Drive: https://colab.research.google.com/drive/11_ppENw1693OyKvPwW0AYaW2yxhdhWN_?usp=sharing 
   
 ### #2 Aprendizado Não supervisionado
 
