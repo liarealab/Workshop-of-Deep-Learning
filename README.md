@@ -8,7 +8,7 @@ O minicurso tem como objetivo apresentar os conceitos fundamentais de deep lear
 
 Após uma introdução teórica super interessante, vamos brincar e trabalhar com problemas reais enfrentados no que diz respeito ao treinamento de modelos de DL. 
 
-### #1 Caso de Estudo
+### #1 Aprendizado Supervisionado
 No tocante ao aprendizado supervisionado, comumente direcionado para tarefas de classificação/segmentação semântica, um dos principais desafios, além da escassez de conjunto de imagens rotulados, é o desbalanceamento da quantidade de dados rotulados. Para este caso de estudo, iremos utilizar U-Net de Cite que vai ser treinada no CerraData-3, um conjunto de dados sobre o bioma Cerrado. Para acessar o experimento siga as instruções a seguir:
 
 - Faça log-in na sua conta Google
@@ -23,4 +23,11 @@ No tocante ao aprendizado supervisionado, comumente direcionado para tarefas de 
     
    print("Path to dataset files:", path)
    ```
-   
+- Acesse o notebook e faça uma cópia para seu Google Drive: https://colab.research.google.com/drive/1UDkeEM2HFdvLx1bBiWjK5yAzyFK4kvRm?usp=sharing
+  
+### #2 Aprendizado Não supervisionado
+
+...
+
+### #3 Games
+Para reforçar o conteúdo trabalhado neste workshop, preparamos um game Q&A em grupo. Aquele que chegar em primeiro lugar leva um prêmio de participação. Acesse o game em: https://kahoot.it/
