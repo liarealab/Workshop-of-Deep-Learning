@@ -12,7 +12,7 @@ Após uma introdução teórica super interessante, vamos brincar e trabalhar co
 No tocante ao aprendizado supervisionado, comumente direcionado para tarefas de classificação/segmentação semântica, um dos principais desafios, além da escassez de conjunto de imagens rotulados, é o desbalanceamento da quantidade de dados rotulados. Para este caso de estudo, iremos utilizar U-Net de Cite que vai ser treinada no CerraData-3, um conjunto de dados sobre o bioma Cerrado. Para acessar o experimento siga as instruções a seguir:
 
 - Faça login na sua conta Google
-- Acesse o notebook:
+- Acesse o notebook (Versão Completa para Download): https://colab.research.google.com/drive/1a18_EpUZy7CFhFTCdTt_F8VPmvHs6LLC?usp=sharing 
 - Ative a GPU:T4
 - Baixe o dataset, na linha onde:
    ```
